@@ -1,0 +1,6 @@
+{
+  "name": "Max it Cameroun - Super-App Mobile Money",
+  "description": "Application mobile camerounaise inspirée de Max it : vérification du solde, transferts d'argent Orange Money & MTN MoMo, retraits, dépôts, paiements marchands QR et sécurité biométrique.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
